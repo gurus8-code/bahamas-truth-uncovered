@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.travelledroad.com/is-the-bahamas-part-of-the-us/$1",
+      "permanent": true
+    }
+  ]
+}
