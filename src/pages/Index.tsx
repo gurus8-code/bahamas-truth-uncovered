@@ -71,6 +71,18 @@ const Index = () => {
               <p>
                 The confusion is understandable. When you can see the Florida coast from certain Bahamian islands, when your credit card works just like at home, and when everyone speaks English with familiar American TV playing in the background—it can feel like you never left the US. But here's the reality: the moment you land in the Bahamas, you've entered a foreign country.
               </p>
+              <p>
+  If you want a more detailed breakdown from a travel perspective — including practical tips, entry rules, and common mistakes travelers make — this guide on{' '}
+  <a
+    href="https://www.travelledroad.com/is-the-bahamas-part-of-the-us"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    TravelledRoad
+  </a>{' '}
+  goes deeper into what visitors should realistically expect.
+</p>
+
             </section>
 
             {/* Why Confusion Section */}
@@ -283,7 +295,7 @@ const Index = () => {
                 Final Thoughts: Embracing the Bahamas as Its Own Destination
               </h2>
               <p className="text-foreground/80 mb-4">
-                After all my years of visiting and studying the Bahamas, I think the real beauty of this nation lies in its unique identity. Yes, it's close to America. Yes, you can use dollars and speak English. But the Bahamas has its own rhythm, its own culture, its own way of life that makes it distinctly different from anything you'll find in the United States.
+                After all my years of visiting and studying the Bahamas, I think the real beauty of this nation lies in its unique identity. Yes, it's close to America. Yes, you can use dollars and speak English. But the Bahamas has its own rhythm, its own culture, its own way of life that makes it distinctly different from anything you'll find in the United States TravelledRoad.
               </p>
               <p className="text-foreground/80 mb-4">
                 From the Junkanoo festivals to the traditional rake and scrape music, from the conch salad vendors to the pink sand beaches of Harbour Island—the Bahamas offers experiences you simply cannot find in any US state or territory.
